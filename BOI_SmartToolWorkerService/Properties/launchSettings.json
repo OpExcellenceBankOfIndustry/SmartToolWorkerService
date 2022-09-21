@@ -1,0 +1,11 @@
+﻿{
+  "profiles": {
+    "BOI_SmartToolWorkerService": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
